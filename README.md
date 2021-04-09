@@ -40,3 +40,12 @@ Após realizar a montagem, vamos conferir a lista de funcionalidades e adicionar
 
 - **Editor de README.md:** https://pandao.github.io/editor.md/en.html
 - **Shield.io:** https://shields.io/
+
+![](https://github.com/raposos-1RB/Arduino_AC1/blob/main/AC%20Coding/ana.jpg)
+![](https://github.com/raposos-1RB/Arduino_AC1/blob/main/AC%20Coding/duda.jpg)
+![](https://github.com/raposos-1RB/Arduino_AC1/blob/main/AC%20Coding/eduardo.jpg)
+![](https://github.com/raposos-1RB/Arduino_AC1/blob/main/AC%20Coding/helo.jpg)
+![](https://github.com/raposos-1RB/Arduino_AC1/blob/main/AC%20Coding/igor.jpg)
+![](https://github.com/raposos-1RB/Arduino_AC1/blob/main/AC%20Coding/jamile.jpg)
+![](https://github.com/raposos-1RB/Arduino_AC1/blob/main/AC%20Coding/malu.jpg)
+![](https://github.com/raposos-1RB/Arduino_AC1/blob/main/AC%20Coding/pedro.png)
